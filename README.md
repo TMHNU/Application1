@@ -1,8 +1,2 @@
-# project
-just demo
-
-#purpose of project
-ssssss
-
-
-''NAME''
+# Application1
+just practical
